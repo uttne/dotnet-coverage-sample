@@ -71,5 +71,19 @@
 
 - https://docs.microsoft.com/ja-jp/lifecycle/products/microsoft-net-framework
 - https://docs.microsoft.com/ja-jp/dotnet/core/tutorials/libraries#how-to-target-net-framework
+- https://docs.microsoft.com/ja-jp/visualstudio/msbuild/msbuild-reserved-and-well-known-properties?view=vs-2022
+- https://docs.microsoft.com/ja-jp/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022
+- https://docs.microsoft.com/ja-jp/dotnet/core/testing/unit-testing-with-nunit
+- https://docs.microsoft.com/ja-jp/dotnet/core/testing/unit-testing-with-mstest
+- https://docs.nunit.org/articles/vs-test-adapter/Tips-And-Tricks.html#testoutputxml
+    - https://github.com/nunit/nunit3-vs-adapter/blob/8a9b8a38b7f808a4a78598542ddaf557950c6790/demo/demo.runsettings
+- https://danielpalme.github.io/ReportGenerator/usage.html
+- https://yasuo.hatenablog.com/entry/2011/12/31/221216
+- https://github.com/OpenCover/opencover
+- https://github.com/lucaslorentz/minicover
+- https://github.com/SteveGilham/altcover
+- https://github.com/coverlet-coverage/coverlet
+- https://github.com/microsoft/vstest
+- https://github.com/danielpalme/ReportGenerator
 
 
