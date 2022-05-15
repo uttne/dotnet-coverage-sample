@@ -51,7 +51,7 @@
     <Compile Include="SampleTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ConsoleApp1\SampleCli.csproj">
+    <ProjectReference Include="..\..\src\SampleCli\SampleCli.csproj">
       <Project>{e42168f9-8b97-4347-9ab6-4143ad80df8c}</Project>
       <Name>SampleCli</Name>
     </ProjectReference>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCli", "ConsoleApp1\SampleCli.csproj", "{E42168F9-8B97-4347-9AB6-4143AD80DF8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCli", "src\SampleCli\SampleCli.csproj", "{E42168F9-8B97-4347-9AB6-4143AD80DF8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCli.Tests", "tests\SampleCli.Tests\SampleCli.Tests.csproj", "{18FE1F29-0BB6-49D8-BDC0-023CDBFC6983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCli.Tests", "test\SampleCli.Tests\SampleCli.Tests.csproj", "{18FE1F29-0BB6-49D8-BDC0-023CDBFC6983}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
