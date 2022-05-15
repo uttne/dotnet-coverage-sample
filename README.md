@@ -13,19 +13,6 @@
 - Unit Test Library
     - NUnit
 
-### [.NET Framework 4.6.2 - Legacy Project - OpenCover - dotnet](./net462_legacy_OpenCover_dotnet/README.md)
-
-- .NET
-    - .NET Framework 4.6.2
-- Project Format
-    - Legacy
-- Coverage Library
-    - OpenCover
-- Command
-    - dotnet
-- Unit Test Library
-    - NUnit
-
 ### [.NET Framework 4.6.2 - Microsoft.NET.Sdk - OpenCover - dotnet](./net462_sdk_OpenCover_dotnet/README.md)
 
 - .NET
