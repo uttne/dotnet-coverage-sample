@@ -400,3 +400,4 @@ FodyWeavers.xsd
 report/
 histories/
 .idea/
+nuget/
