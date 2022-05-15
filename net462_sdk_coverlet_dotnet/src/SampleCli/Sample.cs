@@ -16,5 +16,15 @@ namespace SampleCli
         {
             return "Hello,World!";
         }
+
+        public bool IsOverZero(int x)
+        {
+            bool res = false;
+            if (0 < x)
+            {
+                res = true;
+            }
+            return res;
+        }
     }
 }
