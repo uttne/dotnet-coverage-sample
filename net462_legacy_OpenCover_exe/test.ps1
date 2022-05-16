@@ -1,9 +1,9 @@
-﻿Push-Location -Path $PSScriptRoot | Out-Null
+Push-Location -Path $PSScriptRoot | Out-Null
 
 $MSBuild = "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe"
 $TestRunner = ".\packages\NUnit.ConsoleRunner.3.15.0\tools\nunit3-console.exe"
 $CoverageTool = ".\packages\OpenCover.4.7.1221\tools\OpenCover.Console.exe"
-$ReportGenTool = ".\packages\ReportGenerator.5.1.6\tools\net47\ReportGenerator.exe"
+$ReportGenTool = ".\packages\ReportGenerator.5.1.7\tools\net47\ReportGenerator.exe"
 
 
 $SlnPath = ".\CoverageSample.sln"
