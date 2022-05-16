@@ -17,10 +17,10 @@ namespace SampleCli
             return "Hello,World!";
         }
 
-        public bool IsOverZero(int x)
+        public bool IsZero(int x)
         {
             bool res = false;
-            if (0 < x)
+            if (0 == x)
             {
                 res = true;
             }

@@ -38,12 +38,13 @@ namespace SampleCli.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestCase(0, false)]
-        public void GetHelloTest(int x, bool expected)
+        [TestCase(0, true)]
+        [TestCase(1, false)]
+        public void IsZeroTest(int x, bool expected)
         {
             var sample = new Sample();
 
-            var actual = sample.IsOverZero(x);
+            var actual = sample.IsZero(x);
 
             Assert.AreEqual(expected, actual);
         }
